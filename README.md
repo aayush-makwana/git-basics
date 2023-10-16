@@ -1,2 +1,2 @@
 # git-basics
-This Repository is crated to learn various basics of git and GitHub!
+This Repository is created to learn various basics of git and GitHub!
